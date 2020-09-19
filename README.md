@@ -3,5 +3,5 @@ This is a project to create Bee Awareness. The problem of decline in bee colonie
 <li> Impact on bees in various states.</li>
 <li> Year wise analysis.</li>
 <li> States with highest decline in bee colonies and Why? </li>
-
+<br>
 After examining this data and penning down some important points a detailed research was done using available resources on internet. We collected all the important points, interesting facts and backed these things using our data and published a website to create Bee Awareness. 
